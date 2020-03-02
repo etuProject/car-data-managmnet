@@ -24,9 +24,7 @@ public class SendCarProbe {
             e.printStackTrace();
             throw e;
         }
-
         String inputFilename = "data/CarProbeSample.json";
-
         DeviceClient deviceClient = null;
         try {
             deviceClient = new DeviceClient(deviceProps);

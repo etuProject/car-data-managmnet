@@ -1,9 +1,9 @@
-## Mandatory fields
-Organization-ID=f60kbc
-Device-Type=Vehicle
+n## Mandatory fields
+Organization-ID=whpgmq
+Device-Type=vehicle
 Device-ID=1
 Authentication-Method=token
-Authentication-Token=_1+7aQWlKf05BPo6lW
+Authentication-Token=jzt1A902R3nV*2SLHt
 
 ## Optional fields
 Clean-Session = true
